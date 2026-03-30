@@ -1,0 +1,10 @@
+AI Usage Disclosure
+AI tools (such as ChatGPT) were used during the development of this project as a support tool to improve productivity and understanding.
+The following areas involved AI assistance:
+- Initial project setup and boilerplate code generation
+- Debugging and resolving development issues
+- Understanding and validating business logic (e.g., quota validation, seat allocation rules)
+- Improving code structure, readability, and UI suggestions
+All AI-generated suggestions were carefully reviewed, modified, and tested before being incorporated into the project.
+Critical features such as seat allocation, quota validation, and admission workflows were fully implemented and verified with a clear understanding of the logic.
+The final implementation reflects independent decision-making, with AI used only as a support tool to assist development.
